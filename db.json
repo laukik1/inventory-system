@@ -1,0 +1,23 @@
+{
+  "prroductList": [
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 1201,
+      "comment": "sdsdsdcxd",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
